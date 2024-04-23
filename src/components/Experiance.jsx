@@ -11,7 +11,7 @@ function Experiance() {
     {
       id: 1,
       logo: html,
-      name: "MongoDB",
+      name: "Html",
     },
     {
       id: 2,
